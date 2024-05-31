@@ -1,0 +1,5 @@
+# QuizApp
+
+[App preview link](https://drive.google.com/file/d/1bBSyb4jIzz9JmkLEYu75OfHK8epwDavh/view?usp=drive_link)
+
+**QuizApp** is an engaging Android application designed to test users' knowledge through a series of quiz questions. The `MainActivity` sets up the initial user interface, prompting users to enter their name and start the quiz. Upon starting, users are directed to the `QuizQuestions` activity, where they face multiple-choice questions, with each question providing four possible answers. Users can select their answers, and feedback is provided immediately, indicating whether the selected answer is correct or incorrect. After completing all questions, the user is redirected to the `ResultActivity`, which displays the user's name and score, and allows them to restart the quiz. The app maintains a smooth and interactive experience by utilizing global variables, intuitive UI components, and state management techniques to ensure real-time updates and seamless navigation between activities.
